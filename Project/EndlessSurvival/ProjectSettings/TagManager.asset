@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - campfire
+  - PlayerPos
+  - Enemy
+  - Animal
+  - House
+  - Resource
+  - Tree
+  - Mineral
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - Tree
+  - Animal
+  - Minimap
+  - Arrow
+  - Weather
+  - Map
+  - Mark
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AboveGrid
+    uniqueID: 3461931983
+    locked: 0
